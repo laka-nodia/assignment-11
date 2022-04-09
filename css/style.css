@@ -1,0 +1,29 @@
+header,body{
+    width: 100%;
+    height: 100%;
+    font-family: 'Comfortaa';
+}
+.header-poster-img{
+    background-image: url("../img/header-poster.jpg");
+    width: 100%;
+    height: 720px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+}
+.add-elements{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.pseudo::after{
+    content: '\2192';
+    margin-left: 10px;
+}
+.img-size{
+    width: 100px;
+    height: 90px;
+    object-fit: contain;
+}
+.hover{
+    
+}
