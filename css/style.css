@@ -24,8 +24,3 @@ header,body{
 .hover:hover{
     box-shadow: 2px 5px 15px #888888;
 }
-.col-size{
-    max-width: 280px;
-    width: 100%;
-    height: 280px;
-}
